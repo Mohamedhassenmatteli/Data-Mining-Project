@@ -13,3 +13,5 @@ Features include: booking lead time, customer type, deposit type, number of prev
  Tools & Libraries:
 R language
 rpart for decision tree modeling
+
+![Capture d'écran 2025-05-29 232711](https://github.com/user-attachments/assets/b9393fa8-7e68-4e7a-9146-5cad1ebd57e3)
