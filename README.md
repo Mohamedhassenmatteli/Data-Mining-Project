@@ -1,5 +1,5 @@
 This project aims to develop a machine learning model using R to analyze hotel reservation data and predict whether a customer will check in or cancel their booking.
-
+with my partner: houssinefila
  Objective:
 To support hotel managers in predicting cancellations in advance, which helps in improving occupancy planning and revenue optimization.
 
